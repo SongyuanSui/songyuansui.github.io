@@ -7,7 +7,7 @@
       <p><b>Email: songyuansui@gmail.com</b></p>
     </td>
     <td width="25%">
-      <img src="/photo.jpg" width="100%">      % photo
+      <img src="/photo.jpg" width="100%">   
     </td>
   </tr>
 </table>
