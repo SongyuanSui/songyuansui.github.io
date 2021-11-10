@@ -23,6 +23,7 @@
 + *Application Layer DDoS Attack Detection Using Machine Learning.* **Songyuan SUI,** Chen ZHU. Submitted to ICICS 2022.
 
 ### RESEARCH EXPERIENCES
+
 #### Machine Learning for Networking Online Research Seminar and Training Program:	*May 2021 – Jul 2021*
 Advisor: Professor [Nick Feamster](http://people.cs.uchicago.edu/~feamster/bio.html), Department of Computer Science, University of Chicago
 +	Presented a literature review on machine learning based DDoS attacks detection on three application scenarios.
@@ -42,6 +43,7 @@ Advisor: Professor [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/zh_C
 +	Participated in the National Innovation and Entrepreneurship Training Program for College Students.
 
 ### ACADEMIC PROJECTS
+
 #### Secure De-duplication Cloud Storage System Based on Dynamic Bloom Filter:	*May 2021*
 Advisor: Associate Professor [Chengyu Hu](https://faculty.sdu.edu.cn/huchengyu/zh_CN/index.htm), School of Cyber Science and Technology, Shandong University
 +	Implemented a system that supported cloud storage services for different files.
@@ -55,6 +57,7 @@ Advisor: Associate Professor [Peng Tang](https://faculty.sdu.edu.cn/tangpeng/zh_
 +	Proved that the method satisfied differential privacy protection.
 
 ### COMPETITION EXPERIENCES
+
 #### Team Leader, National Mathematical Contest in Modeling for College Students of China:	*Sep 2020*
 +	Designed a credit decision-making model that could achieve win-win results for the UMKM and banks, based on set and machine learning models.
 +	Won the second prize (national level) in the competition.
