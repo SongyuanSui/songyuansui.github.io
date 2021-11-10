@@ -58,6 +58,7 @@ Advisor: Associate Professor [Peng Tang](https://faculty.sdu.edu.cn/tangpeng/zh_
 #### Team Leader, National Mathematical Contest in Modeling for College Students of China:	*Sep 2020*
 +	Designed a credit decision-making model that could achieve win-win results for the UMKM and banks, based on set and machine learning models.
 +	Won the second prize (national level) in the competition.
+
 #### Team Leader, National College Students Information Security Contest:	*Jul 2020*
 +	Built a neural network model debugging system based on a differential heat map.
 +	Carried out differential analysis of the model state to find out the key internal characteristics leading to the defect.
