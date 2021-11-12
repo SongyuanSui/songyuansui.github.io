@@ -15,7 +15,7 @@
 ### EDUCATION BACKGROUND
 ***Shandong University:*** 	*Sep 2018 – Jun 2022*
 +	*Bachelor of Engineering in Cyber Science and Technology*
-+	**Overall GPA:** 92.92/100; **Ranking:** 2/53 (Junior year)
++	**Overall GPA:** 92.92/100; **Ranking:** 2/53 
 +	**TOEFL iBT:** 102
 +	**Core courses:** *Advanced Programming Language, Data Structures and Algorithms, Design and Analysis of Algorithms, Computer Organization and Design, Computer Networks, Operation Systems, Machine Learning, Network Security, Software Security, Security Protocols and Standards, Information Theory and Coding.*
 
