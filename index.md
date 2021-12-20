@@ -1,9 +1,10 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Songyuan SUI</h1>
+      <h1>Songyuan SUI (隋松原)</h1>
       <p><b>Undergraduate</b></p>
       <p><b>School of Cyber Science and Technology, Shandong University</b></p>
+      <p><b>山东大学网络空间安全学院</b></p>
       <p><b>Email: songyuansui@gmail.com</b></p>
     </td>
     <td width="25%">
